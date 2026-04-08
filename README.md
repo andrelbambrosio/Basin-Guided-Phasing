@@ -36,6 +36,8 @@ with:
 
 This numbering is meant to make the pipeline order immediately visible from the filename.
 
+<img width="1785" height="1027" alt="image" src="https://github.com/user-attachments/assets/258f3d12-9df9-438c-8f9f-5606179bb40b" />
+
 ## Repository overview
 
 ### Stage 0 — PDB data acquisition and preparation
