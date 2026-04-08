@@ -1,4 +1,5 @@
 # Basin-Guided-Phasing
+<<<<<<< HEAD
 
 > **Citation notice**  
 > If you use any part of this codebase, or results derived from it, in academic work, presentations, preprints, or downstream software, please cite the associated manuscript:  
@@ -95,3 +96,6 @@ Before public release, please update:
 - author list
 - version / release tag
 - repository URL
+=======
+Study of macromolecular crystallographic phasing from attenuated signed amplitudes: cohort assembly, centric-burden analysis, acentric compression, Basin Score calibration, controlled degradation, anti-phase MTZ generation, AutoBuild validation, and degradation-result analysis for basin-guided ab initio structure solution.
+>>>>>>> 9f34fc7b8e8673160f0678353441bf327a339658
