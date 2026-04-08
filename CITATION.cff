@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: >-
+  If you use this repository or code derived from it, please cite the associated
+  manuscript and this repository. Please update the placeholder metadata below
+  before public release.
+title: "Basin-Guided-Phasing"
+abstract: >-
+  Staged computational pipeline for attenuated signed amplitudes, Basin Score
+  calibration, controlled degradation, anti-phase MTZ generation, AutoBuild
+  validation, and degradation-result analysis for basin-guided macromolecular
+  phasing.
+type: software
+license: BSD-3-Clause
+repository-code: "https://github.com/USERNAME/Basin-Guided-Phasing"
+url: "https://github.com/USERNAME/Basin-Guided-Phasing"
+version: "0.1.0"
+date-released: "2026-04-08"
+preferred-citation:
+  type: article
+  title: "Attenuated signed amplitudes as an initializer for macromolecular phase determination"
+  authors:
+    - family-names: "ToUpdate"
+      given-names: "Authors"
+  journal: "bioRxiv"
+  year: 2026
+  doi: "DOI-TO-BE-ADDED"
