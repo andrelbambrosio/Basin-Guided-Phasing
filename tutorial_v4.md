@@ -267,9 +267,9 @@ This stage performs **acentric-only phase compression** on the ECALC CSV files a
 
 Important code behavior:
 - only **acentric** reflections are binned; centric reflections are preserved unchanged
-- for each requested `K`, the script writes:
-  - `PHIC_ALL_KK`
-  - `FOM_KK`
+- for each requested `K` bin, the script writes:
+  - `PHIC_ALL_K<K>`
+  - `FOM_K<K>`
 - it also computes dataset-level and global summaries of:
   - RMS phase error
   - mean absolute phase error
@@ -305,7 +305,7 @@ Main outputs:
 This stage converts the binned CSV files into minimal **PHIB-input MTZ files** for Phenix AutoBuild.
 
 Important code behavior:
-- supports methods:
+- supports methods (any value for K-binning can be used):
   - `iREDO`
   - `K2`
   - `K3`
@@ -487,6 +487,10 @@ python 31_reconstruct_maps_and_extract_skeleton_proxies.py \
 ```
 
 ---
+
+**Important**. We used ChatGPT 5.4 as an analytical aid to evaluate the density-modification and skeleton-proxy summary tables produced in this workflow (steps 30_ and 31_ ). Based on these inputs, it assisted in selecting the two most predictive metrics from each branch, estimating the associated logistic-model coefficients, and comparing candidate models across the full set of resolution windows for prediction of Phenix AutoBuild success and failure (steps 22_ and 23_ ). The equal-weight model adopted in the manuscript, S_3.5, was obtained through this ChatGPT 5.4-assisted model-selection procedure.
+
+
 
 ## 32. Compute the deployed Basin Score
 
