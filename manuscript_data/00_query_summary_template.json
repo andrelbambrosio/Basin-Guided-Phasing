@@ -1,0 +1,9 @@
+{
+  "queried_on": "2025-12-31",
+  "advanced_query_attributes": "Structure Determination Methodology = \"experimental\"\nAND\nExperimental Method = \"X-RAY DIFFRACTION\"\nAND\nPolymer Entity Type = \"Protein\"\nAND\nNumber of Distinct Protein Entities = 1\nAND\nNumber of Protein Instances (Chains) per Assembly = 1\nAND\nRefinement Resolution <= 1.7",
+  "query_label": "single-chain high-resolution X-ray cohort",
+  "source": "RCSB PDB Advanced Search",
+  "query_url": "PASTE_QUERY_URL_HERE_IF_DESIRED",
+  "query_id": "OPTIONAL_INTERNAL_OR_RCSB_QUERY_ID",
+  "notes": "Compact human-readable summary of the filters used to generate the TXT pool."
+}
