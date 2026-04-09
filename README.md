@@ -59,7 +59,7 @@ This numbering is meant to make the pipeline order immediately visible from the 
 ### Stage 3 — Basin Score calibration
 - `30_run_multiwindow_density_modification.py`
 - `31_reconstruct_maps_and_extract_skeleton_proxies.py`
-- `32_compute_basin_score_deployed_windowtag.py`
+- `32_compute_basin_score_deployed.py`
 
 ### Stage 4 — Basin Score degradation
 - `40_BasinScore_degradation.py`
