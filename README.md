@@ -3,7 +3,7 @@
 
 > **Citation notice**  
 > If you use any part of this codebase, or results derived from it, in academic work, presentations, preprints, or downstream software, please cite the associated manuscript:  
-> **[Authors]. Attenuated signed amplitudes as an initializer for macromolecular phase determination. bioRxiv (YEAR). DOI: [DOI TO BE ADDED]**  
+> **[Mateus P Otto, Felipe S Lincoln, Andre LB Ambrosio]. Binary phase initialization enables basin entry in macromolecular structure determination. bioRxiv (2026). DOI: [DOI TO BE ADDED]**  
 > This repository will be updated with the final citation details once the preprint is posted and later linked to the peer-reviewed publication.
 
 ## Repository description
