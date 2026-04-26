@@ -3,7 +3,7 @@
 
 > **Citation notice**  
 > If you use any part of this codebase, or results derived from it, in academic work, presentations, preprints, or downstream software, please cite the associated manuscript:  
-> **Andre LB Ambrosio. Extreme phase compression preserves buildable basins in macromolecular crystallography. bioRxiv (2026). DOI: [DOI TO BE ADDED]**  
+> **Andre LB Ambrosio. Extreme phase compression preserves buildable basins in macromolecular crystallography. bioRxiv (2026). DOI: https://doi.org/10.64898/2026.04.24.720598**  
 > This repository will be updated with the final citation details once the preprint is posted and later linked to the peer-reviewed publication.
 
 ## Repository description
