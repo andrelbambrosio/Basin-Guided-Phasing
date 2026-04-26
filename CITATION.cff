@@ -19,8 +19,8 @@ preferred-citation:
   type: article
   title: "Extreme phase compression preserves buildable basins in macromolecular crystallography"
   authors:
-- family-names: "Ambrosio"
-  given-names: "Andre"
+  - family-names: "Ambrosio"
+    given-names: "Andre"
   orcid: "https://orcid.org/0000-0002-9515-930X"
   journal: "bioRxiv"
   year: 2026
