@@ -18,7 +18,10 @@ date-released: "2026-04-26"
 preferred-citation:
   type: article
   title: "Extreme phase compression preserves buildable basins in macromolecular crystallography"
-  authors: "Andre Luis Berteli Ambrosio"
+  authors:
+- family-names: "Ambrosio"
+  given-names: "Andre"
+  orcid: "https://orcid.org/0000-0002-9515-930X"
   journal: "bioRxiv"
   year: 2026
   doi: https://doi.org/10.64898/2026.04.24.720598
