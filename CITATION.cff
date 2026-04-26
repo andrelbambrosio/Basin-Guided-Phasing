@@ -11,16 +11,14 @@ abstract: >-
   phasing.
 type: software
 license: BSD-3-Clause
-repository-code: "https://github.com/USERNAME/Basin-Guided-Phasing"
-url: "https://github.com/USERNAME/Basin-Guided-Phasing"
+repository-code: "https://github.com/andrelbambrosio/Basin-Guided-Phasing"
+url: "https://github.com/andrelbambrosio/Basin-Guided-Phasing"
 version: "0.1.0"
-date-released: "2026-04-08"
+date-released: "2026-04-26"
 preferred-citation:
   type: article
-  title: "Attenuated signed amplitudes as an initializer for macromolecular phase determination"
-  authors:
-    - family-names: "ToUpdate"
-      given-names: "Authors"
+  title: "Extreme phase compression preserves buildable basins in macromolecular crystallography"
+  authors: "Andre Luis Berteli Ambrosio"
   journal: "bioRxiv"
   year: 2026
-  doi: "DOI-TO-BE-ADDED"
+  doi: https://doi.org/10.64898/2026.04.24.720598
